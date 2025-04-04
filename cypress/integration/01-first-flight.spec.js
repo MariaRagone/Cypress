@@ -1,6 +1,8 @@
 /* <reference types="cypress" />
 /* eslint-env mocha, cypress */
 
+const { before } = require('lodash');
+
 describe('Create a New Item', () => {
   beforeEach(() => {
     cy.visit('/jetsetter');
