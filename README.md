@@ -1,13 +1,11 @@
 # Cypress Playground
 
+clone the repo
+https://github.com/stevekinney/cypress
+
 ## Code
 
-There are two repositories for this project:
-
-- This repostory.
-- A [super simple starter](https://github.com/stevekinney/cypress-starter).
-
-Clone down both, run `npm install` and the read below for a few extra steps for setting up this repository.
+Run `npm install` and the read below for a few extra steps for setting up this repository.
 
 ## Lessons and Content
 
@@ -43,4 +41,11 @@ You can run the tests using the following command. **Note**: You must have compl
 npx cypress open
 ```
 
+Saving the test file runs the tests
+
 [docker]: https://www.docker.com/
+
+## Useful Extensions
+
+Cypress Snippets
+Cypress Helper
